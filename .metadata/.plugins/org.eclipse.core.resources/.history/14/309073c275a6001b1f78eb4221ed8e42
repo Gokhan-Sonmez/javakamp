@@ -1,0 +1,16 @@
+package kodlamaio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		CategoryManager categoryManager = new CategoryManager();
+		InstructorManager instructorManager = new InstructorManager();
+		CourseManager courseManager = new CourseManager();
+		
+		
+	
+
+	}
+
+}
