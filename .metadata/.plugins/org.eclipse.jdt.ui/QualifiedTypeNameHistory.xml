@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.resources.doclets"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="oopIntro.Product"/>
     <fullyQualifiedTypeName name="oopIntro.ProductManager"/>
@@ -9,4 +8,15 @@
     <fullyQualifiedTypeName name="kodlamaio.Instructor"/>
     <fullyQualifiedTypeName name="kodlamaio.CategoryManager"/>
     <fullyQualifiedTypeName name="kodlamaio.CourseManager"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="inheratance.Customer"/>
+    <fullyQualifiedTypeName name="inheratance.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="inheratance.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="inheratance.SendikaCustomer"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.Log"/>
+    <fullyQualifiedTypeName name="inheritance2.LogManager"/>
+    <fullyQualifiedTypeName name="inheritance2.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritance2.FileLogger"/>
+    <fullyQualifiedTypeName name="inheratance.CustomerManager"/>
 </qualifiedTypeNameHistroy>
