@@ -1,20 +1,16 @@
 package kodlamaio;
 
-public class Instructor {
+public class Instructor  extends User{
 	
-	public Instructor() {}
-	
-	public Instructor(int id, String firstname,String lastname) {
-		
-		this();
-		this.id=id;
-		this.firstname = firstname;
-		this.lastname = lastname;
-		
-	}
+String speciality;
 
-	int id;
-	String firstname;
-	String lastname;
+public String getSpeciality() {
+	return speciality;
+}
+
+public void setSpeciality(String speciality) {
+	this.speciality = speciality;
+}
+
 	
 }
