@@ -20,4 +20,9 @@
     <fullyQualifiedTypeName name="inheritance2.FileLogger"/>
     <fullyQualifiedTypeName name="inheratance.CustomerManager"/>
     <fullyQualifiedTypeName name="kodlamaio.UserManager"/>
+    <fullyQualifiedTypeName name="interfaces.DatebaseLogger"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.FileLogger"/>
+    <fullyQualifiedTypeName name="interfaces.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
 </qualifiedTypeNameHistroy>
