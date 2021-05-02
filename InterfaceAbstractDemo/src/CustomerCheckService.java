@@ -1,5 +1,5 @@
 
 public interface CustomerCheckService {
 
-	boolean CheckIfRealPerson(Customer customer);
+	boolean checkIfRealPerson(Customer customer);
 }

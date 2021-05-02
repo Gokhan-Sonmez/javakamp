@@ -33,4 +33,11 @@
     <fullyQualifiedTypeName name="CustomerCheckService"/>
     <fullyQualifiedTypeName name="StarbucksCustomerManager"/>
     <fullyQualifiedTypeName name="CustomerCheckManager"/>
+    <fullyQualifiedTypeName name="UserValidationService"/>
+    <fullyQualifiedTypeName name="GameManager"/>
+    <fullyQualifiedTypeName name="NewUserValidationManager"/>
+    <fullyQualifiedTypeName name="SellingService"/>
+    <fullyQualifiedTypeName name="CampaingService"/>
+    <fullyQualifiedTypeName name="Campaing"/>
+    <fullyQualifiedTypeName name="SalesManager"/>
 </qualifiedTypeNameHistroy>
