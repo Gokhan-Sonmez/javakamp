@@ -1,5 +1,5 @@
 
-public class BaseCustomerManager implements CustomerService {
+public abstract class BaseCustomerManager implements CustomerService {
 
 	@Override
 	public void save(Customer customer) {
