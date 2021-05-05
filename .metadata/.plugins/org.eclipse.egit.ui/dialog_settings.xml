@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Gökhan SÖNMEZ &lt;gsonmez828@aof.anadolu.edu.tr&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Gökhan SÖNMEZ &lt;gsonmez828@aof.anadolu.edu.tr&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
@@ -18,9 +29,9 @@
 		<list key="D:\javakamp\.git">
 			<item value="false"/>
 			<item value="Gökhan SÖNMEZ &lt;gsonmez828@aof.anadolu.edu.tr&gt;"/>
-			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;01.05"/>
+			<item value="05.05"/>
 			<item value="Gökhan SÖNMEZ &lt;gsonmez828@aof.anadolu.edu.tr&gt;"/>
-			<item value="4b5df0cf04b7ed7e495e7c66a029888998290ab3"/>
+			<item value="1c558a571aa70fe7edce0f07dda7e0dbc96ea901"/>
 			<item value="0"/>
 			<item value="false"/>
 		</list>

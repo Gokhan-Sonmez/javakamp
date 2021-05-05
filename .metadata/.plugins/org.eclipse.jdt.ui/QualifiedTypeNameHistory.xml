@@ -40,4 +40,15 @@
     <fullyQualifiedTypeName name="CampaingService"/>
     <fullyQualifiedTypeName name="Campaing"/>
     <fullyQualifiedTypeName name="SalesManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.abstracts.ProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.abstracts.ProductService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.concretes.ProductManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.concretes.Product"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.LoggerService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.jLogger.JLoggerManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.JLoggerManagerAdapter"/>
 </qualifiedTypeNameHistroy>
