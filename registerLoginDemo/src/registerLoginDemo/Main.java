@@ -13,7 +13,7 @@ public class Main {
 		AuthService authService1 = new AuthManager(new HibernateUserDao(),new EmailManager());
 		authService1.register(1, "Gökhan", "Sönmez", "gokhan@gmail.com", "123456");
 	
-		AuthService authService2 = new GoogleAuthManagerAdapter();
+		AuthService authService2 = new GoogleAuthManagerAdapter(new EmailManager());
 		authService2.register(2, "Gökhan", "Sönmez", "gokhan@gmail.com", "123456");
 		authService2.login("gokhan@gmail.com", "123456");
 	
